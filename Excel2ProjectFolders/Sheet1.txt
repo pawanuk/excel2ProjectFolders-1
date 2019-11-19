@@ -1,0 +1,4 @@
+Department    Date    Last Name    First Name    Position    Approved Date    Salary Daily Rate    Bank hoilday Day Pay    Pre Call Overtime Pay    Post Wrap Overtime Pay    Camera Overtime Pay    Broken Turnaround Pay    Meal Delay Pay    Meal Curltailment Pay    6th Day Pay    7th Day Pay    Pre Dawn Pay    Night Work Premium    Travel Pay    
+art1    2020-08-03    bob    rob    Archive Researcher        100.0        13.64    27.28            13.64    6.82                        
+art1    2020-08-03    tester    chetan env    Head of Art Department        221.54        30.21    60.42            30.21                            
+                        321.54        43.85    87.7            43.85    6.82                        
